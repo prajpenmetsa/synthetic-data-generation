@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Sarah bought a new bicycle that was originally priced at $240. If it was on sale for 25% off, what was the discounted price of the bicycle?",
+    "options": {
+      "A": "$180",
+      "B": "$60",
+      "C": "$160",
+      "D": "$200"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A baker used 3/4 cup of flour for one recipe and 1/2 cup of flour for another recipe. How much flour did the baker use in total?",
+    "options": {
+      "A": "1 cup",
+      "B": "1 1/4 cups",
+      "C": "1 1/2 cups",
+      "D": "3/8 cup"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The ratio of boys to girls in a class is 3:4. If there are 12 boys, how many girls are in the class?",
+    "options": {
+      "A": "9 girls",
+      "B": "15 girls",
+      "C": "16 girls",
+      "D": "20 girls"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "A rectangular garden is 15 meters long and 8 meters wide. What is the area of the garden?",
+    "options": {
+      "A": "23 sq meters",
+      "B": "46 sq meters",
+      "C": "120 sq meters",
+      "D": "60 sq meters"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If a number is doubled and then 7 is added to it, the result is 23. What is the number?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "15",
+      "D": "16"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The temperature in Fairbanks, Alaska, was -10\u00b0F in the morning. By noon, the temperature rose by 15\u00b0F. What was the temperature at noon?",
+    "options": {
+      "A": "5\u00b0F",
+      "B": "-5\u00b0F",
+      "C": "25\u00b0F",
+      "D": "-25\u00b0F"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A cyclist travels at an average speed of 18 kilometers per hour. How far will the cyclist travel in 2.5 hours?",
+    "options": {
+      "A": "36 km",
+      "B": "40 km",
+      "C": "45 km",
+      "D": "50 km"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "A storage box is 4 feet long, 2 feet wide, and 3 feet high. What is the volume of the box?",
+    "options": {
+      "A": "9 cubic feet",
+      "B": "12 cubic feet",
+      "C": "16 cubic feet",
+      "D": "24 cubic feet"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "In a math test, five students scored 85, 92, 78, 90, and 85. What is the average score of these students?",
+    "options": {
+      "A": "85",
+      "B": "86",
+      "C": "87",
+      "D": "88"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If 3 apples cost $1.20, how much would 7 apples cost at the same rate?",
+    "options": {
+      "A": "$2.40",
+      "B": "$2.80",
+      "C": "$3.00",
+      "D": "$3.20"
+    },
+    "answer": "B"
+  }
+]
