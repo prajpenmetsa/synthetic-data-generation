@@ -1,0 +1,42 @@
+[
+  {
+    "input": "Convert 50°F to Celsius.",
+    "label": "To convert Fahrenheit to Celsius, we use the formula:\n\n$C = (F - 32) \\times \\frac{5}{9}$\n\nWhere:\n*   $C$ is the temperature in Celsius\n*   $F$ is the temperature in Fahrenheit\n\nGiven $F = 50^\\circ F$:\n\n$C = (50 - 32) \\times \\frac{5}{9}$\n$C = (18) \\times \\frac{5}{9}$\n$C = \\frac{18 \\times 5}{9}$\n$C = \\frac{90}{9}$\n$C = 10$\n\nSo, $50^\\circ F$ is equal to $10^\\circ C$.\n\n**Answer:** $10^\\circ C$"
+  },
+  {
+    "input": "Summarize the purpose of DNA in one line.",
+    "label": "DNA stores and transmits the genetic instructions for building and maintaining an organism."
+  },
+  {
+    "input": "Translate 'How are you?' to French.",
+    "label": "The most common and generally polite translation for \"How are you?\" in French is:\n\n**Comment allez-vous ?**\n\nThis uses the formal \"vous\" (you) which can also be used when speaking to multiple people.\n\nIf you are speaking to one person informally (a friend, family member, child), you would say:\n\n**Comment vas-tu ?**\n\nA very common, more informal and general way to ask \"How are you?\" or \"How's it going?\" is:\n\n**Comment ça va ?**"
+  },
+  {
+    "input": "What is the formula for the area of a circle?",
+    "label": "The formula for the area of a circle is:\n\n**A = πr²**\n\nWhere:\n*   **A** represents the **area** of the circle.\n*   **π** (pi) is a mathematical constant, approximately 3.14159.\n*   **r** represents the **radius** of the circle (the distance from the center to any point on the edge of the circle)."
+  },
+  {
+    "input": "Who wrote 'Romeo and Juliet'?",
+    "label": "That would be **William Shakespeare**."
+  },
+  {
+    "input": "What is the square root of 81?",
+    "label": "The square root of 81 is **9**.\n\nHere's why:\nWhen you multiply 9 by itself (9 x 9), the result is 81.\n\nIt's also worth noting that -9 is also a square root of 81, because (-9) x (-9) = 81. However, when people ask for \"the square root\" without specifying, they usually mean the principal (positive) square root."
+  },
+  {
+    "input": "List two renewable energy sources.",
+    "label": "Here are two renewable energy sources:\n\n1.  **Solar Power:** Harnessing energy from the sun's rays using photovoltaic panels or concentrated solar power systems.\n2.  **Wind Power:** Utilizing the kinetic energy of wind to spin turbines, which then generate electricity."
+  },
+  {
+    "input": "Define the term 'ecosystem'.",
+    "label": "An **ecosystem** is a community of living organisms (biotic components) interacting with their non-living (abiotic) environment.\n\nHere's a breakdown of its key elements:\n\n1.  **Biotic Components:** These are all the living or once-living parts of the ecosystem, including:\n    *   **Producers:** Organisms that create their own food, primarily through photosynthesis (e.g., plants, algae).\n    *   **Consumers:** Organisms that obtain energy by feeding on other organisms (e.g., animals like herbivores, carnivores, omnivores).\n    *   **Decomposers:** Organisms that break down dead organic matter, returning nutrients to the soil (e.g., bacteria, fungi).\n\n2.  **Abiotic Components:** These are the non-living physical and chemical factors that influence the organisms, including:\n    *   Sunlight\n    *   Water\n    *   Air (oxygen, carbon dioxide, nitrogen)\n    *   Soil (minerals, organic matter)\n    *   Temperature\n    *   pH levels\n    *   Topography (physical landscape)\n\n**Key Characteristics of an Ecosystem:**\n\n*   **Interactions:** All components, both biotic and abiotic, are constantly interacting. For example, plants use sunlight and water to grow, animals eat plants, and decomposers break down dead animals and plants.\n*   **Energy Flow:** Energy typically flows in one direction, from the sun to producers, then to consumers, and eventually dissipates as heat.\n*   **Nutrient Cycling:** Essential nutrients (like carbon, nitrogen, water) are constantly recycled within the ecosystem, moving between living organisms and the environment.\n*   **Scale:** Ecosystems can vary greatly in size, from a small pond or a rotting log to a vast forest, a desert, or an entire ocean.\n*   **Dynamic:** Ecosystems are not static; they are dynamic systems that are constantly changing and evolving due to internal processes and external disturbances.\n\nIn essence, an ecosystem is a self-sustaining unit where life processes, energy flow, and material cycling are integrated through a network of interactions."
+  },
+  {
+    "input": "Simplify the expression: 2(x + 3) + 4.",
+    "label": "To simplify the expression $2(x + 3) + 4$, we follow the order of operations (PEMDAS/BODMAS), which means we first address the multiplication implied by the parentheses, and then combine like terms.\n\nHere's a step-by-step explanation:\n\n**Step 1: Apply the Distributive Property.**\nThe distributive property states that $a(b + c) = ab + ac$. In our expression, we have $2(x + 3)$, which means we multiply $2$ by each term inside the parentheses.\n\n*   Multiply $2$ by $x$: $2 \\times x = 2x$\n*   Multiply $2$ by $3$: $2 \\times 3 = 6$\n\nSo, $2(x + 3)$ becomes $2x + 6$.\nNow, substitute this back into the original expression:\n$2x + 6 + 4$\n\n**Step 2: Combine Like Terms.**\nLike terms are terms that have the same variable raised to the same power, or are constant terms (numbers without variables). In the expression $2x + 6 + 4$, we have:\n\n*   $2x$ (a term with the variable $x$)\n*   $6$ (a constant term)\n*   $4$ (a constant term)\n\nWe can combine the constant terms:\n$6 + 4 = 10$\n\nThe term $2x$ has no other like terms to combine with, so it remains $2x$.\n\nPutting it all together, we get:\n$2x + 10$\n\n**Final Answer:**\nThe simplified expression is $\\boxed{2x + 10}$."
+  },
+  {
+    "input": "What is the capital of Italy?",
+    "label": "The capital of Italy is **Rome**."
+  }
+]
