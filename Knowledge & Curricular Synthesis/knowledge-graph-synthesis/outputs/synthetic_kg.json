@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Photosynthesis",
+    "relation": "converts",
+    "object": "Light Energy into Chemical Energy"
+  },
+  {
+    "subject": "DNA",
+    "relation": "carries",
+    "object": "Genetic Information"
+  },
+  {
+    "subject": "Mitochondria",
+    "relation": "generates",
+    "object": "ATP (Adenosine Triphosphate)"
+  },
+  {
+    "subject": "Gravity",
+    "relation": "attracts",
+    "object": "Objects with Mass"
+  },
+  {
+    "subject": "Ohm's Law",
+    "relation": "relates",
+    "object": "Voltage, Current, and Resistance"
+  },
+  {
+    "subject": "Light",
+    "relation": "travels as",
+    "object": "Electromagnetic Waves"
+  },
+  {
+    "subject": "Water",
+    "relation": "is composed of",
+    "object": "Hydrogen and Oxygen"
+  },
+  {
+    "subject": "pH Scale",
+    "relation": "measures",
+    "object": "Acidity or Basicity"
+  },
+  {
+    "subject": "Covalent Bond",
+    "relation": "involves",
+    "object": "Sharing of Electrons"
+  },
+  {
+    "subject": "Peer Learning",
+    "relation": "enhances",
+    "object": "Collaborative Skills"
+  },
+  {
+    "subject": "Curriculum Development",
+    "relation": "defines",
+    "object": "Learning Objectives"
+  },
+  {
+    "subject": "Scientific Method",
+    "relation": "guides",
+    "object": "Empirical Research"
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "relation": "employs",
+    "object": "Machine Learning Algorithms"
+  },
+  {
+    "subject": "Internet",
+    "relation": "facilitates",
+    "object": "Global Information Exchange"
+  },
+  {
+    "subject": "Blockchain",
+    "relation": "enables",
+    "object": "Decentralized Transaction Ledgers"
+  }
+]

@@ -1,0 +1,79 @@
+```json
+[
+  {
+    "subject": "DNA",
+    "relation": "stores genetic information for",
+    "object": "Genes"
+  },
+  {
+    "subject": "Genes",
+    "relation": "are transcribed into",
+    "object": "RNA"
+  },
+  {
+    "subject": "RNA",
+    "relation": "is translated into",
+    "object": "Proteins"
+  },
+  {
+    "subject": "Proteins",
+    "relation": "can function as",
+    "object": "Enzymes"
+  },
+  {
+    "subject": "Enzymes",
+    "relation": "catalyze",
+    "object": "Metabolic Reactions"
+  },
+  {
+    "subject": "Metabolic Reactions",
+    "relation": "occur within",
+    "object": "Cells"
+  },
+  {
+    "subject": "Cells",
+    "relation": "contain",
+    "object": "Organelles"
+  },
+  {
+    "subject": "Organelles",
+    "relation": "include",
+    "object": "Mitochondria"
+  },
+  {
+    "subject": "Mitochondria",
+    "relation": "is the site of",
+    "object": "Cellular Respiration"
+  },
+  {
+    "subject": "Cellular Respiration",
+    "relation": "generates",
+    "object": "ATP"
+  },
+  {
+    "subject": "ATP",
+    "relation": "powers",
+    "object": "Active Transport"
+  },
+  {
+    "subject": "Active Transport",
+    "relation": "is a type of",
+    "object": "Cellular Process"
+  },
+  {
+    "subject": "Cellular Process",
+    "relation": "requires",
+    "object": "Energy"
+  },
+  {
+    "subject": "Energy",
+    "relation": "is stored in",
+    "object": "ATP"
+  },
+  {
+    "subject": "Cells",
+    "relation": "can perform",
+    "object": "Photosynthesis"
+  }
+]
+```
